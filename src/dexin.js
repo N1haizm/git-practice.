@@ -1,2 +1,2 @@
 console.log('dexin.js')
-console.log('versiya3')
+console.log('versiya1')

@@ -1,2 +1,2 @@
 console.log('figcon.js')
-console.log('versiya3')
+console.log('versiya1')
